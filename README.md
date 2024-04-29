@@ -6,6 +6,6 @@ Our services encompass web development, application building, and various softwa
 
 We understand the demanding workloads our fellow engineers face in their regular jobs. By distributing tasks across our network, we strive to enable a broader range of tech professionals to engage in impactful volunteer work without overwhelming individual commitments.
 
-This repository is used to initiate service request from users. Services themselves will be managed in individual repositories. Non-profit entities seeking pro-bono engineering support are welcome to start a pull request.
+This repository is used to initiate service request from users. Services themselves will be managed in individual repositories. Non-profit entities seeking pro-bono engineering support are welcome to start an issue.
 
 If you resonate with our cause and wish to join our mission, please reach out to us at join@swe4good.org.
