@@ -8,4 +8,4 @@ We understand the demanding workloads our fellow engineers face in their regular
 
 This repository is used to initiate service request from users. Services themselves will be managed in individual repositories. Non-profit entities seeking pro-bono engineering support are welcome to start a pull request.
 
-If you resonate with our cause and wish to join our mission, please reach out to us at j.zhang@swe4good.org.
+If you resonate with our cause and wish to join our mission, please reach out to us at join@swe4good.org.
